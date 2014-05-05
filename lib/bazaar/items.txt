@@ -4,7 +4,6 @@ axe
 balloon
 baseball
 bathtub
-bible
 bike
 bikini
 bleach

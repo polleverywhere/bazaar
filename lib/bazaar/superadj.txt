@@ -32,7 +32,6 @@ homeless
 icy
 indigo
 inquisitive
-itchy
 joyful
 jubilant
 juicy
@@ -62,7 +61,6 @@ serene
 snowy
 solitary
 spacial
-squealing
 stark
 stunning
 sunset
@@ -82,6 +80,5 @@ wandering
 warm
 wealthy
 whispering
-withered
 wooden
 zealous
