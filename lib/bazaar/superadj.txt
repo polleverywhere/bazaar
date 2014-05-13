@@ -1,3 +1,4 @@
+able
 affectionate
 amiable
 arrogant
@@ -6,6 +7,7 @@ benevolent
 billowing
 blessed
 breezy
+bright
 calm
 celestial
 charming
@@ -26,7 +28,9 @@ fuscia
 gentle
 graceful
 greasy
+green
 grieving
+happy
 harmonious
 hollow
 homeless
@@ -37,6 +41,9 @@ joyful
 jubilant
 juicy
 khaki
+kind
+left
+like
 limitless
 lush
 mellow
@@ -46,6 +53,7 @@ mirthful
 moonlit
 mysterious
 natural
+new
 outrageous
 pacific
 parched
@@ -53,18 +61,23 @@ placid
 pleasant
 poised
 purring
+quiet
 radioactive
 resilient
+right
 scenic
 screeching
+secret
 sensitive
 serene
+smooth
 snowy
 solitary
 spacial
 stark
 stunning
 sunset
+sweet
 talented
 tasteless
 teal
@@ -72,6 +85,7 @@ thoughtless
 thriving
 tranquil
 tropical
+true
 undisturbed
 unsightly
 unwavering
@@ -81,5 +95,6 @@ wandering
 warm
 wealthy
 whispering
+wise
 wooden
 zealous
