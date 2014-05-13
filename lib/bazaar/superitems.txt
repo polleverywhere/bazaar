@@ -31,6 +31,7 @@ forest
 galaxy
 garden
 geyser
+glass
 grove
 hurricane
 iceberg
@@ -58,6 +59,7 @@ shelter
 silence
 smokescreen
 snowflake
+sparrow
 spring
 storm
 stream
@@ -70,6 +72,7 @@ surf
 swamp
 temple
 thorns
+tree
 tsunami
 tundra
 valley
