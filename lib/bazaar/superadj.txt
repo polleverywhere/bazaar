@@ -9,6 +9,7 @@ breezy
 calm
 celestial
 charming
+clear
 combative
 composed
 condemned
@@ -23,6 +24,7 @@ fluttering
 frightened
 fuscia
 gentle
+graceful
 greasy
 grieving
 harmonious
