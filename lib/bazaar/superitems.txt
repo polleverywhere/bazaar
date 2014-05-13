@@ -24,6 +24,7 @@ dusk
 farm
 fern
 firefly
+fjord
 flowers
 fog
 foliage
@@ -35,6 +36,7 @@ glass
 grove
 hurricane
 iceberg
+island
 lagoon
 lake
 leaves
