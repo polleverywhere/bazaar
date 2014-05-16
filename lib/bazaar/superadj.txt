@@ -6,6 +6,7 @@ balmy
 benevolent
 billowing
 blessed
+brave
 breezy
 bright
 calm
@@ -32,6 +33,7 @@ green
 grieving
 happy
 harmonious
+heroic
 hollow
 homeless
 icy
@@ -45,6 +47,7 @@ kind
 left
 like
 limitless
+loving
 lush
 mellow
 merciful
@@ -75,6 +78,8 @@ snowy
 solitary
 spacial
 stark
+steel
+steely
 stunning
 sunset
 sweet
@@ -96,5 +101,7 @@ warm
 wealthy
 whispering
 wise
+wry
 wooden
 zealous
+zen
