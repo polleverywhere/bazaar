@@ -4,6 +4,7 @@ apple
 atoll
 aurora
 autumn
+bacon
 badlands
 ball
 banana
@@ -19,6 +20,7 @@ book
 bowl
 branch
 bread
+breeze
 briars
 brook
 brush
@@ -73,9 +75,14 @@ fu
 galaxy
 garden
 geyser
+gift
 glass
 grove
+guide
+guru
 hat
+hug
+hero
 hill
 horse
 house
@@ -107,11 +114,13 @@ pants
 peak
 pebble
 pine
+pilot
 plane
 planet
 plant
 plateau
 pond
+prize
 rabbit
 rain
 range
@@ -120,6 +129,8 @@ reserve
 resonance
 river
 rock
+sage
+salute
 sanctuary
 sand
 sands
@@ -131,8 +142,9 @@ silence
 sky
 smokescreen
 snowflake
-sock
+socks
 soil
+soul
 soup
 sparrow
 spoon
@@ -150,6 +162,7 @@ sunshine
 surf
 swamp
 table
+teacher
 temple
 thorns
 tiger
