@@ -69,6 +69,7 @@ foliage
 forest
 freeze
 frog
+fu
 galaxy
 garden
 geyser
